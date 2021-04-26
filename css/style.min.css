@@ -2703,7 +2703,7 @@ body {
 
 .header {
   position: relative;
-  background-image: url(../../images/header-bg.jpg);
+  background-image: url(../images/header-bg.jpg);
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2804,7 +2804,7 @@ body {
   z-index: 2;
   padding: 92px;
   padding-bottom: 73px;
-  background-image: url(../../images/about-bg.jpg);
+  background-image: url(../images/about-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2844,7 +2844,7 @@ body {
 .info {
   padding-top: 100px;
   padding: 130px;
-  background-image: url(../../images/info-bg.png);
+  background-image: url(../images/info-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2880,7 +2880,7 @@ body {
   width: 669px;
   height: 301px;
   content: "";
-  background-image: url(../../images/info/info-left.png);
+  background-image: url(../images/info/info-left.png);
 }
 
 .info__item-right {
@@ -2900,7 +2900,7 @@ body {
   width: 535px;
   height: 402px;
   content: "";
-  background-image: url(../../images/info/info-right.png);
+  background-image: url(../images/info/info-right.png);
 }
 
 .info__text {
@@ -2919,7 +2919,7 @@ body {
 .form {
   padding-top: 98px;
   padding-bottom: 70px;
-  background-image: url(../../images/form-bg.jpg);
+  background-image: url(../images/form-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -3007,7 +3007,7 @@ body {
 .footer {
   padding-top: 96px;
   padding-bottom: 75px;
-  background-image: url(../../images/footer.jpg);
+  background-image: url(../images/footer.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
